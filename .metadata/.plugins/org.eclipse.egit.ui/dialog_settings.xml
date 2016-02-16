@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="0" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/dgassner/PlainOlNotes2.git"/>
+		<item value="file:///C:\Users\Kiubel\git\PlainOlNotes2"/>
+	</list>
+	<section name="GitCommitSearchPage">
+		<item value="1" key="HISTORY_SIZE"/>
+		<section name="HISTORY0">
+			<section name="searchSection">
+				<item value="" key="textPattern"/>
+				<item value="true" key="matchMessage"/>
+				<item value="true" key="matchCommitter"/>
+				<item value="true" key="matchParents"/>
+				<item value="1" key="repositoryCount"/>
+				<item value="C:\Users\Kiubel\git\PlainOlNotes2\.git" key="repository0"/>
+				<item value="true" key="matchCommit"/>
+				<item value="true" key="matchAuthor"/>
+				<item value="true" key="matchTree"/>
+				<item value="true" key="ignoreCase"/>
+				<item value="false" key="allBranches"/>
+				<item value="false" key="regexSearch"/>
+			</section>
+		</section>
+	</section>
+	<section name="GitImportWizard">
+	</section>
+</section>
